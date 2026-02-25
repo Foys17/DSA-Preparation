@@ -1,4 +1,4 @@
-# Time Complexity & Space Complexity
+# Time and Space Complexity & Space Complexity
 
 ## ✅ What is Time Complexity?
 
